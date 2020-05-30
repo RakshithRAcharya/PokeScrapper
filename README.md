@@ -3,7 +3,7 @@ A very basic implementation of web scrapper that downloads Pokèmon images from 
 ![Pokèmon](../pok.jpg)
 Libraries used:
 
-*cv2
-*numpy
-*urllib
-*time
+* cv2
+* numpy
+* urllib
+* time
